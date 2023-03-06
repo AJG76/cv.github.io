@@ -1,0 +1,16 @@
+body{
+    /* opacity: 0.65; */
+    /* color: green; */
+}
+.leer:hover{
+    /* background-color: #cfe2ff;    */
+    background-color: #f1f5fc;   
+        
+}
+.leer h2:hover{
+    color:rgb(98, 98, 205); 
+    text-decoration: underline;
+}
+.html{
+    cursor: pointer;
+}
